@@ -23,3 +23,5 @@ minimap2 -t 16 -ax splice --secondary=no --cs $TMPDIR/replaced.v18.fa <(seqkit f
 
 minimap2 -ax splice -t 12 -uf --secondary=no -C5 $TMPDIR/replaced.v18.fa  ${sample}_clean.fa > $TMPDIR/sam
 sort -k3,3 -k4,4n $TMPDIR/sam > ${sample}_clean.sort.sam
+
+/scratch/luohao/software/stringtie-2.1.7.Linux_x86_64/stringtie -l $day -L -m 500 -j 4 -c 4 -p 12 $sra -o ${day}_clean.sam.gtf
