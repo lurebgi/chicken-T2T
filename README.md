@@ -1,4 +1,4 @@
-Note: the codes were adopted according to the configuration environment of the Life Science Server of University of Vienna.
+Note: some codes were adopted according to the configuration environment of the Life Science Server of University of Vienna.
 
 ## Description for each directory:
 - The [assembly] directory contains codes for trio binning, haploid genome assembly. The (pseudo)commands for executing assembly and polishing are also shwon in the directory.
