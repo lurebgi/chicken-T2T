@@ -18,7 +18,7 @@ Note: some codes were adopted according to the configuration environment of the 
 ## Data availability
 The assemblies and raw sequencing data are available under the NCBI accession [PRJNA693184].
 - latest genome and annotation files:
-Please download with this [link]
+Please download with this [link] (Dropbox) or [this] (微云)
 
 
 
@@ -35,4 +35,5 @@ Please download with this [link]
 [StainedGlass]: https://github.com/mrvollger/StainedGlass
 [PRJNA693184]: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA693184
 [link]: https://www.dropbox.com/scl/fo/plq2tm2w9lzlk0ua1rzph/h?dl=0&rlkey=l6z3rgmjs7ec9azun8nundnzl
+[this]:https://share.weiyun.com/kh6Y8CAW
 
