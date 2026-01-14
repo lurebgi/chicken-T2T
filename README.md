@@ -20,6 +20,10 @@ The assemblies and raw sequencing data are available under the NCBI accession [P
 - latest genome and annotation files:
 Please download with this [link] (Dropbox) or [this] (微云)
 
+## Centromere coordinators
+Please find the file cenpa.range.all in [centromere]. The coordinators are based on GCA_024206055.1. The centromeric regions are defined by the CENP-A ChIP-seq data, such as SRA DRR018430. 
+
+
 
 
 
