@@ -21,7 +21,9 @@ The assemblies and raw sequencing data are available under the NCBI accession [P
 Please download with this [link] (Dropbox) or [this] (微云)
 
 ## Centromere coordinators
-Please find the file cenpa.range.all in [centromere]. The coordinators are based on GCA_024206055.1. The centromeric regions are defined by the CENP-A ChIP-seq data, such as SRA DRR018430. 
+Please find the file cenpa.range.all in [centromere]. The coordinators are based on GCA_024206055.1. The centromeric regions are defined by the CENP-A ChIP-seq data, such as SRA DRR018430. For the sex chromosomes:
+chrW: 7030000 to 7080000
+chrZ: 44130000 to 44170000
 
 
 
